@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Teste 1",
+    "name": "Teste 1",
+    "contato": 5585988704658,
+    "canal": "instagram",
+    "integração": "megasac",
+    "tipo de mensagem": "teste",
+    "criação": "teste",
+    "status de mensagem": "success",
+    "código de erro": "-",
+    "motivo do erro": "-"
+  }
+]
