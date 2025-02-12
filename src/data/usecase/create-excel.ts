@@ -1,6 +1,6 @@
-import { CreateExcel } from "../../domain/usecases/create-excel";
+import { ConvertToJson } from "../../domain/usecases/convert-to-json";
 
-export class CreateExcelUseCase implements CreateExcel {
+export class CreateExcelUseCase implements ConvertToJson {
   async execute() {
 
   }

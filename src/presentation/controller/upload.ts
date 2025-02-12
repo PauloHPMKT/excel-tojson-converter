@@ -14,6 +14,7 @@ export class UploadController implements Controller {
 
       return ok(filePath);
     } catch (error) {
+      console.error(error);
       return serverError();
     }
   }
